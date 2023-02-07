@@ -1,0 +1,10 @@
+{
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "_posts",
+            "path": "[[workspace]]/_posts"
+        }
+    ],
+    "frontMatter.taxonomy.tags": [],
+    "frontMatter.taxonomy.categories": []
+}
