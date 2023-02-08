@@ -1,2 +1,20 @@
-theme: minima
 title: Horgun's experiences
+author: Sávio Meira
+email: saviobola@gmail.com
+
+description: >
+  Trying to help people by sharing knowledge. I'll try to post mostly about issues I encounter while trying to do 
+  something and how I got to solve it (if I do get to solve it).
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_excerpts: true
+
+disqus:
+  shortname: horguns-experiences
+
+google_analytics: G-FW929LGXEL
