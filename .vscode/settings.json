@@ -1,10 +1,13 @@
 {
-    "frontMatter.content.pageFolders": [
-        {
-            "title": "_posts",
-            "path": "[[workspace]]/_posts"
-        }
-    ],
     "frontMatter.taxonomy.tags": [],
-    "frontMatter.taxonomy.categories": []
+    "frontMatter.taxonomy.categories": [],
+    "frontMatter.content.autoUpdateDate": true,
+    "[markdown]": {
+    },
+    "grammarly.files.include": [
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt",
+        "**/_drafts/*.md"
+    ]
 }
